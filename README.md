@@ -1,1 +1,1 @@
-https://igor-pri.github.io/rsschool-cv/
+https://igor-pri.github.io/rsschool-cv
